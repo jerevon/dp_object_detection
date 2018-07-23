@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>_DSC1379.JPG</filename>
+	<path>E:\Downloads\weed_detection\imagetest\train2\_DSC1379.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>field bindweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>242</ymin>
+			<xmax>420</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
