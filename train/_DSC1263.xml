@@ -1,0 +1,74 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>_DSC1263.JPG</filename>
+	<path>E:\Downloads\weed_detection\imagetest\train2\_DSC1263.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sugar beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>404</ymin>
+			<xmax>727</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>field bindweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>1044</ymin>
+			<xmax>684</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>field bindweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>698</ymin>
+			<xmax>450</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>field bindweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>891</ymin>
+			<xmax>444</xmax>
+			<ymax>1055</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>field bindweed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1</ymin>
+			<xmax>796</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

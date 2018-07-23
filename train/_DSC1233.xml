@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>_DSC1233.JPG</filename>
+	<path>E:\Downloads\weed_detection\imagetest\train2\_DSC1233.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sugar beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>409</ymin>
+			<xmax>446</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sugar beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>897</ymin>
+			<xmax>507</xmax>
+			<ymax>1141</ymax>
+		</bndbox>
+	</object>
+</annotation>
